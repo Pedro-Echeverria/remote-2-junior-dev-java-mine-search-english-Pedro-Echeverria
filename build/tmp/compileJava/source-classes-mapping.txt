@@ -1,0 +1,2 @@
+template/mine/search/excercice/App.java
+ template.mine.search.excercice.App
